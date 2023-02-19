@@ -12,10 +12,38 @@ The duration of the project spanned from **December 2019 to May 2020**.
 * MySQL
 
 ## Content
-* Student Section
-* Admin Section
-* Proctor Section
-* Professor Section
+* **Student Section**
+  
+* **Admin Section**
+  * Add/Edit of admin, professor, and proctor accounts.
+    * Export activity logs of the three accounts in spreadsheet form..
+    * Add another subject with its name, subject code, and units.
+  * Add/Edit of student accounts.
+    * Export activity logs of the student in spreadsheet form.
+    * Add another subject with its name, subject code, and units.
+  * Set subjects per semester.
+    * Add another subject with its name, subject code, and units.
+* **Proctor Section**
+  * Add/Edit of student accounts.
+    * Export activity logs of the student in spreadsheet form.
+    * Add another subject with its name, subject code, and units.
+* **Professor Section**
+  * Add/Edit student accounts.
+    * Export activity logs of the student in spreadsheet form.
+    * Add another subject with its name, subject code, and units.
+  * Add/Edit subject's examination.
+    * Export the questions in document form.
+    * Set the schedule of the examination.
+  * Check student's answers.
+    * For enumeration, true/identify, identification, and essay type of questions.
+    * View the student total score.
+  * Check the report of the examination.
+    * View the number of: 
+      * Examinees.
+      * Passed the exam.
+      * Students that answer a specific item with percentage and graphical interface.
+      * Top 10 highest and lowest score of the examinees.
+    * Export the report in spreadsheet form.
 
 ## Screenshot
 **Logos and information were removed to protect privacy and intellectual property.**</br>
